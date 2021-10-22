@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/keboard.0.jpg);
+  background-size: 100%;
+  background-position: bottom;
+}
+h1,
+p {
+  font-family: "Open Sans", sans-serif;
+  color: rgb(166, 167, 157);
+}
+.col-md-4 p {
+  color: black;
+}
+#Project {
+  background-color: #1ab7e7;
+}
+#card p {
+  color: black;
+}
+section {
+  padding-top: 5rem;
+}
